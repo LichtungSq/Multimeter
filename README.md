@@ -1,5 +1,5 @@
 # Multimeter
-SJTU EE333 Final Project: Course Design in Intelligent Instrument
+SJTU EE333 Final Project: Course Design in Intelligent Instrument, tested on CCS
 
 * Built a digital multimeter system via circuit welding, software controlling by C Language in Code Composer
 Studio (CCS) and hardware controlling by MSP430 Single-chip Microcomputer (SCM).
